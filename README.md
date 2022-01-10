@@ -3,10 +3,10 @@
 
 - Software Engineer concentrating on Security
 - Proficient in Python, Go, C+, C, Shell and Javascript
-- 
+
 ## I'm looking for:
 - Cybersecurity and Software Engineering opportunities
-- 
+
 ## Portfolio link:
 
 [Portfolio](https://rolla-cluster.github.io/) 
