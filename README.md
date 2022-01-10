@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4D03AQEw-r8KU4vBYQ/profile-displayphoto-shrink_200_200/0/1554483580450" align="right">
+<img src="https://github.com/rolla-cluster/rolla-cluster/blob/main/Image%20from%20iOS.png?raw=true" align="right">
 
 - Cybersecurity and public development project repos
 <!---
