@@ -2,14 +2,12 @@
 
 ## About me:
 - Software Engineer concentrating on Security
-- Proficient in Python, Go, C#, C, Shell and Javascript
+- Proficient in Python, Go, C#, C, and Javascript
 
-## I'm looking for:
-- Cybersecurity and Software Engineering opportunities
+## I'm looking for positions like:
+- Security Engineer
+- Senior Software Engineer
 
 [Portfolio Link](https://rolla-cluster.github.io/) 
+[LinkedIn](https://www.linkedin.com/in/rollacampbellcluster/) 
 
-<!---
-rolla-cluster/rolla-cluster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
